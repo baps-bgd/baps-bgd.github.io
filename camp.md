@@ -4,7 +4,7 @@ title: Camp Resources
 permalink: /camp/
 ---
 **Topics**
-* Introduction
+* [Introduction](/_posts/introduction-to-cp)
 * Greedy, Searching
 * Dynamic Programming
 * String Algorithms
