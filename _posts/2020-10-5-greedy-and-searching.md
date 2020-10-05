@@ -12,8 +12,8 @@ published: true
 **Problems**
 <table>
 <colgroup>
-<col width="80%" />
-<col width="20%" />
+<col width="90%" />
+<col width="10%" />
 </colgroup>
 <thead>
 <tr class="header">
