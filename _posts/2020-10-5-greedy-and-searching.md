@@ -3,6 +3,11 @@ layout: post
 title: Greedy and Searching
 published: true
 ---
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 
 **Resources**
 * [](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
