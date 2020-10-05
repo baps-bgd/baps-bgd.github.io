@@ -10,7 +10,9 @@ published: true
 * [Forthright48 tutorial](https://forthright48-web.herokuapp.com/cpps/notes/intervalScheduling.md)
 
 **Related Problems**
+
 You can see [Lightoj Greedy Section](http://lightoj.com/volume_problemcategory.php?user_id=2022&category=Greedy) and [Lightoj Searching Section](http://lightoj.com/volume_problemcategory.php?user_id=2022&main_category=Advanced%20Search%20Techniques) for Greedy and Searching related problems. Some more problems are given below.
+
 <table>
   <colgroup>
     <col width="90%" />
