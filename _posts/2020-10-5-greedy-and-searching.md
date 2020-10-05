@@ -9,7 +9,7 @@ published: true
 * [Topcoder tutorial](https://www.topcoder.com/community/competitive-programming/tutorials/greedy-is-good/)
 * [Forthright48 tutorial](https://forthright48-web.herokuapp.com/cpps/notes/intervalScheduling.md)
 
-**Problems**
+**Related Problems**
 <table>
   <colgroup>
     <col width="90%" />
@@ -17,7 +17,7 @@ published: true
   </colgroup>
   <tbody>
     <tr>
-      <td markdown="span">**Problem**</td>
+      <td markdown="span">**Problem Name**</td>
       <td markdown="span">**Difficulty**</td>
     </tr>
     <tr>
