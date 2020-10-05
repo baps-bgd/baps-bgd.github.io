@@ -7,7 +7,7 @@ published: true
 **Resources**
 * [Hackerearth tutorial](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
 * [Topcoder tutorial](https://www.topcoder.com/community/competitive-programming/tutorials/greedy-is-good/)
-* [Samiul's blog - Interval Scheduling](https://forthright48-web.herokuapp.com/cpps/notes/intervalScheduling.md)
+* [Forthright48 tutorial](https://forthright48-web.herokuapp.com/cpps/notes/intervalScheduling.md)
 
 **Problems**
 <table>
