@@ -17,7 +17,7 @@ You can see [Lightoj Greedy Section](http://lightoj.com/volume_problemcategory.p
     <col width="10%" />
   </colgroup>
   <tbody>
-    <tr>
+    <tr> 
       <td markdown="span">**Problem Name**</td>
       <td markdown="span">**Difficulty**</td>
     </tr>
