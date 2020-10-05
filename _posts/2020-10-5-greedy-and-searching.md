@@ -14,4 +14,4 @@ published: true
 * [Lightoj Searching Section](http://lightoj.com/volume_problemcategory.php?user_id=2022&main_category=Advanced%20Search%20Techniques)
 * [UVa - 11776 - Oh Your Royal Greediness!](https://onlinejudge.org/external/117/11776.pdf) (Easy)
 * [SPOJ - TWOPROF - Two Professors](https://www.spoj.com/problems/TWOPROF/) (Medium)
-* [CM - Lesson for Unity](https://algo.codemarshal.org/contests/subiupc-2015/problems/B) (Medium)
+* [CM - Lesson for Unity](https://algo.codemarshal.org/contests/subiupc-2015/problems/B) (Medium) 
