@@ -5,7 +5,7 @@ permalink: /camp/
 ---
 **Topics**
 * [Introduction](/introduction-to-cp)
-* [Greedy, Searching]
+* [Greedy and Searching](/greedy-and-searching)
 * Dynamic Programming
 * String Algorithms
 * Game Theory
