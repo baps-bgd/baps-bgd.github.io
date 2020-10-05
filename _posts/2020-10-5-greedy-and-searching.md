@@ -10,7 +10,7 @@ published: true
 </style>
 
 **Resources**
-* [](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
+* [Hackerearth tuorial](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
 * https://www.topcoder.com/community/competitive-programming/tutorials/greedy-is-good/
 * https://forthright48-web.herokuapp.com/cpps/notes/intervalScheduling.md
 
