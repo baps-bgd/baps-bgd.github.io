@@ -11,29 +11,27 @@ published: true
 
 **Problems**
 <table>
-<colgroup>
-<col width="90%" />
-<col width="10%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Problem</th>
-<th>Difficulty</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">[UVa - 11776 - Oh Your Royal Greediness!](https://onlinejudge.org/external/117/11776.pdf)</td>
-<td markdown="span">Easy</td>
-</tr>
-<tr>
-<td markdown="span">[SPOJ - TWOPROF - Two Professors](https://www.spoj.com/problems/TWOPROF/)</td>
-<td markdown="span">Medium</td>
-</tr>
-<tr>
-<td markdown="span">[CM - Lesson for Unity](https://algo.codemarshal.org/contests/subiupc-2015/problems/B)</td>
-<td>Medium</td>
-</tr>  
-</tbody>
+  <colgroup>
+    <col width="90%" />
+    <col width="10%" />
+  </colgroup>
+  <tbody>
+    <tr>
+      <td markdown="span">**Problem**</td>
+      <td markdown="span">**Difficulty**</td>
+    </tr>
+    <tr>
+      <td markdown="span">[UVa - 11776 - Oh Your Royal Greediness!](https://onlinejudge.org/external/117/11776.pdf)</td>
+      <td markdown="span">Easy</td>
+    </tr>
+    <tr>
+      <td markdown="span">[SPOJ - TWOPROF - Two Professors](https://www.spoj.com/problems/TWOPROF/)</td>
+      <td markdown="span">Medium</td>
+    </tr>
+    <tr>
+      <td markdown="span">[CM - Lesson for Unity](https://algo.codemarshal.org/contests/subiupc-2015/problems/B)</td>
+      <td markdown="span">Medium</td>
+    </tr>  
+  </tbody>
 </table>
 
