@@ -20,11 +20,11 @@ published: true
 - [UVa - 299 - Train Swapping](https://onlinejudge.org/external/2/299.pdf)
 - [UVa - 846 - Steps](https://onlinejudge.org/external/8/846.pdf)
 - [UVa - 880 - Cantor Fractions](https://onlinejudge.org/external/8/880.pdf)
-- [UVa - 1121 - Subsequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3562)
-- [UVa - 1712 - Cutting Cheese](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=865&page=show_problem&problem=4785)
-- [UVa - 1720 - Weather Report](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=865&page=show_problem&problem=4793) `(Hard)`
+- [UVa - 1121 - Subsequence](https://onlinejudge.org/external/11/1121.pdf)
+- [UVa - 1712 - Cutting Cheese](https://onlinejudge.org/external/17/1712.pdf)
+- [UVa - 1720 - Weather Report](https://onlinejudge.org/external/17/1720.pdf) `(Hard)`
 - [UVa - 10325 - The Lottery](https://onlinejudge.org/external/103/10325.pdf) `(Hard)`
-- [UVa - 11269 - Setting Problems](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2236)
+- [UVa - 11269 - Setting Problems](https://onlinejudge.org/external/112/11269.pdf)
 - [UVa - 11292 - The Dragon of Loowater](https://onlinejudge.org/external/112/11292.pdf)
 - [UVa - 11495 - Bubbles and Buckets](https://onlinejudge.org/external/114/11495.pdf)
 - [UVa - 11413 - Fill the Containers](https://onlinejudge.org/external/114/11413.pdf)
