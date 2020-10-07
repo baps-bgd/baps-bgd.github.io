@@ -6,7 +6,7 @@ published: true
 
 ## Resources
 
-- [Hackerearth tutorial - Greedy](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
+- [Hackerearth tutorial - Greedy](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/){:target="_blank"}
 - [Topcoder tutorial - Greedy](https://www.topcoder.com/community/competitive-programming/tutorials/greedy-is-good/)
 - [Forthright48 tutorial - Greedy](https://forthright48-web.herokuapp.com/cpps/notes/intervalScheduling.md)
 - [Topcoder tutorial - Binary Search](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search)
