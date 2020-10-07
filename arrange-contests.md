@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arrange a Contest with BAPS
-permalink: /about/
+permalink: /arrange-contests/
 ---
 
 ***This page is under construction***
