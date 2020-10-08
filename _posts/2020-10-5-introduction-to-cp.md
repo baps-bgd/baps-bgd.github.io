@@ -4,6 +4,8 @@ title: Introduction to Competitive Programming and Problem-Solving
 published: true
 ---
 
+## Our primary discussion points
+
 - Why should you do competitive programming / problem-solving?
 - How to start competitive programming / problem-solving?
 - How to improve?
