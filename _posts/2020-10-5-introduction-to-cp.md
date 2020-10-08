@@ -4,8 +4,11 @@ title: Introduction to Competitive Programming and Problem-Solving
 published: true
 ---
 
-**কেন আমাদের প্রব্লেম সল্ভিং এবং কম্পিটিটিভ প্রোগ্রামিং করা উচিৎ**
+- Why should you do competitive programming / problem-solving?
+- How to start competitive programming / problem-solving?
+- How to improve?
+- How to set the goals and achieve them?
+- What are the commong mistakes?
 
-**অনলাইন 
 
 
