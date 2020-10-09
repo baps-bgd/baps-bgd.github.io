@@ -10,7 +10,7 @@ published: true
 - How to start competitive programming / problem-solving?
 - How to improve?
 - How to set the goals and achieve them?
-- What are the commong mistakes?
+- What are the common mistakes?
 
 
 
