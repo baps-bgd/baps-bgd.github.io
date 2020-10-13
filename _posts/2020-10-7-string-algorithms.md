@@ -29,14 +29,14 @@ published: true
 - [SPOJ - SUFEQPRE - Suffix Equal Prefix](https://www.spoj.com/problems/SUFEQPRE/en/){:target="_blank"}`(Easy)`
 - [SPOJ - LPS - Longest Palindromic Substring](https://www.spoj.com/problems/LPS/en/){:target="_blank"}`(Medium)`
 - [HackerRank - Maximum Permutation](https://www.hackerrank.com/contests/university-codesprint-4/challenges/maximum-permutation){:target="_blank"}
-- [CF - Gym - 101806Q](https://codeforces.com/gym/101806/problem/Q){:target="_blank"}
-- [CF - 898F](https://codeforces.com/problemset/problem/898/F){:target="_blank"} `(Hard)`
-- [CF - 817E](https://codeforces.com/problemset/problem/817/E){:target="_blank"} `(Hard)`
-- [CF - 633C](https://codeforces.com/problemset/problem/633/C){:target="_blank"} `(Medium)`
-- [CF - 126B](https://codeforces.com/problemset/problem/126/B){:target="_blank"} `(Medium)`
-- [CF - 706D](https://codeforces.com/problemset/problem/706/D){:target="_blank"} `(Medium)`
-- [CF - 432D](https://codeforces.com/problemset/problem/432/D){:target="_blank"} `(Medium)`
-- [CF - 1326D2](https://codeforces.com/problemset/problem/1326/D2){:target="_blank"} `(Medium)`
+- [CF - Gym - 101806Q - QueryreuQ](https://codeforces.com/gym/101806/problem/Q){:target="_blank"}
+- [CF - 898F- Restoring the Expression](https://codeforces.com/problemset/problem/898/F){:target="_blank"} `(Hard)`
+- [CF - 817E - Choosing The Commander](https://codeforces.com/problemset/problem/817/E){:target="_blank"} `(Hard)`
+- [CF - 633C - Spy Syndrome 2](https://codeforces.com/problemset/problem/633/C){:target="_blank"} `(Medium)`
+- [CF - 126B - Password](https://codeforces.com/problemset/problem/126/B){:target="_blank"} `(Medium)`
+- [CF - 706D - Vasiliy's Multiset](https://codeforces.com/problemset/problem/706/D){:target="_blank"} `(Medium)`
+- [CF - 432D - Prefixes and Suffixes](https://codeforces.com/problemset/problem/432/D){:target="_blank"} `(Medium)`
+- [CF - 1326D2 - Prefix-Suffix Palindrome (Hard version)](https://codeforces.com/problemset/problem/1326/D2){:target="_blank"} `(Medium)`
 - [CC - SECPASS - Chef and Secret Password](https://www.codechef.com/problems/SECPASS){:target="_blank"} `(Easy)`
 - [POJ - 3974 - Palindrome](http://poj.org/problem?id=3974){:target="_blank"} `(Easy)`
 - [UVALive - 6893 - The Big Painting](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4905){:target="_blank"}`(Medium)`
