@@ -11,7 +11,7 @@ published: true
 - [Codeforces Tutorial - String Hashing]( https://codeforces.com/blog/entry/60445){:target="_blank"}
 - [ShafaetsPlanet Tutorial - Rolling Hash](http://www.shafaetsplanet.com/?p=3028){:target="_blank"}
 - [CP-Algorithms Tutorial - Z-Algorithm](https://cp-algorithms.com/string/z-function.html){:target="_blank"}
--  [Quora Tutorial - Trie/Prefix Tree](https://www.quora.com/q/threadsiiithyderabad/Tutorial-on-Trie-and-example-problems){:target="_blank"}
+- [Quora Tutorial - Trie/Prefix Tree](https://www.quora.com/q/threadsiiithyderabad/Tutorial-on-Trie-and-example-problems){:target="_blank"}
 - [CP-Algorithms Tutorial - Manacher](https://cp-algorithms.com/string/manacher.html){:target="_blank"}
 
 
@@ -21,7 +21,7 @@ published: true
 - [LightOJ - 1224 - DNA Prefix](http://lightoj.com/volume_showproblem.php?problem=1224){:target="_blank"}`(Easy)`
 - [LightOJ - 1129 - Consistency Checker](http://lightoj.com/volume_showproblem.php?problem=1129){:target="_blank"}`(Easy)`
 - [UVa - 455 - Periodic Strings](https://onlinejudge.org/external/4/455.pdf){:target="_blank"} `(Easy)`
-- [UVa - 11475 - Extend to Palindrome](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=26&page=show_problem&problem=2470){:target="_blank"} `(Easy)`
+- [UVa - 11475 - Extend to Palindrome](https://onlinejudge.org/external/114/11475.pdf){:target="_blank"} `(Easy)`
 - [SPOJ - NHAY - A Needle in the Haystack](http://www.spoj.com/problems/NHAY/){:target="_blank"}
 - [SPOJ - LONGCS - Longest Common Substring](https://www.spoj.com/problems/LONGCS/){:target="_blank"}
 - [SPOJ - MSUBSTR - Mirror Strings !!!](https://www.spoj.com/problems/MSUBSTR/en/){:target="_blank"}`(Easy)`
@@ -39,5 +39,5 @@ published: true
 - [CF - 1326D2 - Prefix-Suffix Palindrome (Hard version)](https://codeforces.com/problemset/problem/1326/D2){:target="_blank"} `(Medium)`
 - [CC - SECPASS - Chef and Secret Password](https://www.codechef.com/problems/SECPASS){:target="_blank"} `(Easy)`
 - [POJ - 3974 - Palindrome](http://poj.org/problem?id=3974){:target="_blank"} `(Easy)`
-- [UVALive - 6893 - The Big Painting](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4905){:target="_blank"}`(Medium)`
-- [UVALive - 4682 - XOR Sum](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2683){:target="_blank"}`(Medium)`
+- [UVALive - 6893 - The Big Painting](https://icpcarchive.ecs.baylor.edu/external/68/6893.pdf){:target="_blank"}`(Medium)`
+- [UVALive - 4682 - XOR Sum](https://icpcarchive.ecs.baylor.edu/external/46/4682.pdf){:target="_blank"}`(Medium)`
