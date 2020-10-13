@@ -4,6 +4,8 @@ title: Greedy and Searching
 published: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IKDtlUMW7F4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Resources
 
 - [Hackerearth tutorial - Greedy](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/){:target="_blank"}
