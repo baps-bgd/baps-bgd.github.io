@@ -1,4 +1,4 @@
-To see the blog in action, go to - [baps-bgd.githib.io](https://baps-bgd.github.io){:target="_blank"}
+To see the blog in action, go to - [baps-bgd.githib.io](https://baps-bgd.github.io)
 
 ## How to contribute
 - Create a fork of this repository. 
