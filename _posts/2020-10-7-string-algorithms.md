@@ -10,7 +10,6 @@ published: true
 - [Quora Tutorial - String Hashing](https://www.quora.com/q/threadsiiithyderabad/String-Hashing-for-competitive-programming){:target="_blank"}
 - [Codeforces Tutorial - String Hashing]( https://codeforces.com/blog/entry/60445){:target="_blank"}
 - [ShafaetsPlanet Tutorial - Rolling Hash](http://www.shafaetsplanet.com/?p=3028){:target="_blank"}
-- [CP-Algorithms Tutorial - Z-Algorithm](https://cp-algorithms.com/string/z-function.html){:target="_blank"}
 - [Quora Tutorial - Trie/Prefix Tree](https://www.quora.com/q/threadsiiithyderabad/Tutorial-on-Trie-and-example-problems){:target="_blank"}
 - [CP-Algorithms Tutorial - Manacher](https://cp-algorithms.com/string/manacher.html){:target="_blank"}
 
