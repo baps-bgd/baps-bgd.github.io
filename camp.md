@@ -11,7 +11,7 @@ BAPS has taken the camp in association with BACS. You will find the recordings o
 - [Greedy and Searching](/greedy-and-searching)
 - [Dynamic Programming](/dynamic-programming)
 - [String Algorithms](/string-algorithms)
-- Game Theory
-- Graphs
+- [Game Theory](/game-theory)
+- [Graphs](/graphs)
 - Math
 - Data Structures
