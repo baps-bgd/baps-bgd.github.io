@@ -13,7 +13,7 @@ published: true
 - [Codeforces tutorial - Nim and Grundy](https://codeforces.com/blog/entry/66040){:target="\_blank"}
 - [Tom Davis book - Hackenbush](http://www.geometer.org/mathcircles/hackenbush.pdf){:target="\_blank"}
 - [](){:target="\_blank"}
-- [](){:target="\_blank"}
+- [](){:target="\_blank"} 
 
 ## Related Problems
 
