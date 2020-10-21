@@ -27,6 +27,6 @@ published: true
 - [CC - KGP14D - Interview Scheduling](https://www.codechef.com/problems/KGP14D){:target="_blank"} `(Medium)`
 - [CF - 895C - Square Subsets](https://codeforces.com/contest/895/problem/C){:target="_blank"} `(Medium)`
 - [CF - 100886G - Maximum Product](https://codeforces.com/gym/100886/problem/G){:target="_blank"} `(Medium)`
-- [ACM ICPC Dhaka Regional 2018/19 - Problem B - Counting Inversion](https://codeforces.com/gym/102040/attachments/download/8231/20182019-acmicpc-asia-dhaka-regional-contest-en.pdf){:target="_blank"} `(Medium)`
-- [Kuet IUPC 2019 - Problem B - Just change it up..](https://drive.google.com/file/d/1dch9pbqnoe3cA_RDvO2UngWswUJkrDNa/view){:target="_blank"} `(Medium)`
+- [ACM ICPC Dhaka Regional 2018/19 - Problem B - Counting Inversion](https://algo.codemarshal.org/contests/icpc-dhaka-18/problems/B){:target="_blank"} `(Medium)`
+- [Kuet IUPC 2019 - Problem B - Just change it up..](https://algo.codemarshal.org/contests/kuet-iupc-19/problems/B){:target="_blank"} `(Medium)`
 - [CC - WORKCHEF - Chef and special numbers](https://www.codechef.com/problems/WORKCHEF){:target="_blank"} `(Medium)`
