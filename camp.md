@@ -13,5 +13,6 @@ BAPS has taken the camp in association with BACS. You will find the recordings o
 - [String Algorithms](/string-algorithms)
 - [Game Theory](/game-theory)
 - [Graphs](/graphs)
+- [Geometry](/geometry)
 - Math
 - Data Structures
