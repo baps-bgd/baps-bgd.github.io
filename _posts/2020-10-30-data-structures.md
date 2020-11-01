@@ -6,7 +6,7 @@ published: true
 
 ## Resources
 
-- [CP-Algorithm tutorial series - Data Structures](https://cp-algorithms.com/){:target="\_blank"}`Look for the secttion named Data Structures)`
+- [CP-Algorithm tutorial series - Data Structures](https://cp-algorithms.com/){:target="\_blank"}`(Look for the secttion named Data Structures)`
 - [Shafaet's Planet tutorial - SQRT Decomposition](http://www.shafaetsplanet.com/?p=3416){:target="\_blank"}
 - [Adilet.org tutorial - Sparse Table](http://adilet.org/blog/sparse-table/){:target="\_blank"}
 - [CF blog - MO's Algorithm](https://codeforces.com/blog/entry/61203){:target="\_blank"}
