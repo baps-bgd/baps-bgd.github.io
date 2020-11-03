@@ -15,5 +15,5 @@ BAPS has taken the camp in association with BACS. You will find the recordings o
 - [Graphs](/graphs)
 - [Geometry](/geometry)
 - [Data Structures](/data-structures)
-- Math
+- [Mathematics](/mathematics)
 
