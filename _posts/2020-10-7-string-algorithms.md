@@ -6,12 +6,14 @@ published: true
 
 ## Resources
 
-- [CP-Algorithms Tutorial - String Hashing](https://cp-algorithms.com/string/string-hashing.html){:target="_blank"}
+- [CP-Algorithms Tutorial Series - String Algorithms](https://cp-algorithms.com){:target="_blank"}`(Look for the String Processing section)`
 - [Quora Tutorial - String Hashing](https://www.quora.com/q/threadsiiithyderabad/String-Hashing-for-competitive-programming){:target="_blank"}
 - [Codeforces Tutorial - String Hashing]( https://codeforces.com/blog/entry/60445){:target="_blank"}
 - [ShafaetsPlanet Tutorial - Rolling Hash](http://www.shafaetsplanet.com/?p=3028){:target="_blank"}
 - [Quora Tutorial - Trie/Prefix Tree](https://www.quora.com/q/threadsiiithyderabad/Tutorial-on-Trie-and-example-problems){:target="_blank"}
-- [CP-Algorithms Tutorial - Manacher](https://cp-algorithms.com/string/manacher.html){:target="_blank"}
+- [ShafaetsPlanet Tutorial - KMP](http://www.shafaetsplanet.com/?p=3209){:target="\_blank"}
+- [Stanford Lecture - Aho-Corasick](http://web.stanford.edu/class/archive/cs/cs166/cs166.1166/lectures/02/Small02.pdf){:target="\_blank"}
+   [](){:target="\_blank"}
 
 
 ## Related Problems
