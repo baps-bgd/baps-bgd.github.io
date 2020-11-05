@@ -23,6 +23,7 @@ published: true
 - [LightOJ - 1129 - Consistency Checker](http://lightoj.com/volume_showproblem.php?problem=1129){:target="_blank"}`(Easy)`
 - [UVa - 455 - Periodic Strings](https://onlinejudge.org/external/4/455.pdf){:target="_blank"} `(Easy)`
 - [UVa - 11475 - Extend to Palindrome](https://onlinejudge.org/external/114/11475.pdf){:target="_blank"} `(Easy)`
+- [UVa - 12672 - Binary Substring](https://onlinejudge.org/external/124/12472.pdf){:target="\_blank"}`(Medium)`
 - [SPOJ - NHAY - A Needle in the Haystack](http://www.spoj.com/problems/NHAY/){:target="_blank"}
 - [SPOJ - LONGCS - Longest Common Substring](https://www.spoj.com/problems/LONGCS/){:target="_blank"}
 - [SPOJ - MSUBSTR - Mirror Strings !!!](https://www.spoj.com/problems/MSUBSTR/en/){:target="_blank"}`(Easy)`
