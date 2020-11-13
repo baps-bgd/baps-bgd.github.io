@@ -11,6 +11,13 @@ published: true
 - [CF Blog - Linear Recurrence and Berlekamp-Massey Algorithm](https://codeforces.com/blog/entry/61306){:target="\_blank"}
 - [CF Blog - Inclusion Exclusion](https://codeforces.com/blog/entry/64625){:target="\_blank"}
 - [Parameterized Algorithms book (Chapter 10) - Advanced Inclusion Exclusion](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf){:target="\_blank"}
+- [Youtube Tutorial - Starling Numbers](https://www.youtube.com/watch?v=Ngj48yeoNZU){:target="\_blank"}
+- [Youtube Tutorial - Catalan Numbers](https://www.youtube.com/watch?v=GlI17WaMrtw){:target="\_blank"}
+- [Forthright48 Blog - Stars and Bars Theorem](https://forthright48.com/stars-and-bars-theorem/){:target="\_blank"}
+- [Shafaet's Planet Tutorial - Expected Value](https://www.shafaetsplanet.com/?p=3060){:target="\_blank"}
+- [Codechef Tutorial - Expexted Value](https://www.codechef.com/wiki/tutorial-expectation){:target="\_blank"}
+- [Errichto's Blog - Expected Value and Linearity of Expectation](https://codeforces.com/blog/entry/62690){:target="\_blank"}
+- [CF Blog - Mobius Inversion](https://codeforces.com/blog/entry/53925){:target="\_blank"}
  [](){:target="\_blank"}
 
 ## Related Problems
