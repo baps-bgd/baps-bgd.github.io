@@ -5,7 +5,7 @@ published: true
 ---
 
 ## Resources
-- [CP-Algorithm tutorial series - Data Structures](https://cp-algorithms.com/){:target="\_blank"}`(Look for the section named Data Structures)`
+- [CP-Algorithm Tutorial series - Data Structures](https://cp-algorithms.com/){:target="\_blank"}`(Look for the section named Data Structures)`
 - [Topcoder Tutorial - Introduction to Data Structures](https://www.topcoder.com/community/competitive-programming/tutorials/data-structures/){:target="\_blank"}
 - [Shafaet's Planet tutorial - SQRT Decomposition](http://www.shafaetsplanet.com/?p=3416){:target="\_blank"}
 - [Adilet.org tutorial - Sparse Table](http://adilet.org/blog/sparse-table/){:target="\_blank"}
@@ -15,6 +15,8 @@ published: true
 - [Jubayer Nirjhor's Blog - Binary Indexed Tree (BIT)/Fenwick Tree](https://mathislife.github.io/assets/posts/Fenwick_Tree.html){:target="\_blank"}
 - [Topocer Tutorial - Lowest Common Ancestor (LCA)](https://www.topcoder.com/community/competitive-programming/tutorials/range-minimum-query-and-lowest-common-ancestor/){:target="\_blank"}
 - [Anudeep's Blog - Heavy Light Decompostion (HLD)](https://blog.anudeep2011.com/heavy-light-decomposition/){:target="\_blank"}
+- [CP-Algorithm Tutorial - Heavy Light Decomposition (HLD)](https://cp-algorithms.com/graph/hld.html){:target="\_blank"}
+[](){:target="\_blank"}
 [](){:target="\_blank"}
 
 ## Related Problems
