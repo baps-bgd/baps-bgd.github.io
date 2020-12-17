@@ -15,6 +15,7 @@ published: true
 - [ShafaetsPlanet Tutorial - KMP](http://www.shafaetsplanet.com/?p=3209){:target="\_blank"}
 - [Stanford Lecture - Aho-Corasick](http://web.stanford.edu/class/archive/cs/cs166/cs166.1166/lectures/02/Small02.pdf){:target="\_blank"}
 - [Stanford Tutorial - Suffix Array](https://web.stanford.edu/class/cs97si/suffix-array.pdf){:target="\_blank"}
+- [CF Edu Tutorial - Suffix Array](https://codeforces.com/edu/course/2/lesson/2){:target="\_blank"}
 - [Akshay Jaggi's Blog - Suffix Automata](https://akshay.jaggi.co/blog/suffix-automata/){:target="\_blank"}
    [](){:target="\_blank"}
 
