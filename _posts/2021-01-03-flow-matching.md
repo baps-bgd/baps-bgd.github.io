@@ -12,5 +12,4 @@ published: true
 
 ## Related Problems
 
-- [Lightoj Game Theory Section](http://lightoj.com/volume_problemcategory.php?main_category=Game%20Theory){:target="\_blank"}
-- [UVa - 847 - A multiplication game](https://onlinejudge.org/external/8/847.pdf){:target="\_blank"} `(Easy)`
+- [UVa - 820 - Internet Bandwidth](https://onlinejudge.org/external/8/820.pdf){:target="\_blank"} `(Easy)`
