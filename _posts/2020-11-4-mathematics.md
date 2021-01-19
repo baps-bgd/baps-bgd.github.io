@@ -34,5 +34,5 @@ published: true
 - [UVa - 12631 - Chocolate or Money](https://onlinejudge.org/external/126/12631.pdf){:target="\_blank"}`(Medium)`
 - [CF - 449D - Jzzhu and Numbers](https://codeforces.com/problemset/problem/449/D){:target="\_blank"}`(Hard)`
 - [CM - SUB-IUPC-15-D - Just Primes](https://algo.codemarshal.org/contests/subiupc-2015/problems/D){:target="\_blank"}`(Medium)`
- [](){:target="\_blank"}
+- [LOJ - 1325 - Distributing Choclates](https://lightoj.com/problem/distributing-chocolates){:target="\_blank"}`(Medium)`
  [](){:target="\_blank"}
