@@ -16,5 +16,5 @@ published: true
 
 ## Related Problems
 
-- [Lightoj Game Theory Section](https://lightoj.com/problems/category/game-theory){:target="\_blank"}
+- [LOJ Game Theory Section](https://lightoj.com/problems/category/game-theory){:target="\_blank"}
 - [UVa - 847 - A multiplication game](https://onlinejudge.org/external/8/847.pdf){:target="\_blank"} `(Easy)`
