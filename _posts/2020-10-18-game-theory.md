@@ -12,8 +12,7 @@ published: true
 - [Let Us Code tutorial - Grundy Numbers](http://letuskode.blogspot.com/2014/08/grundy-numbers.html){:target="\_blank"}
 - [Codeforces tutorial - Nim and Grundy](https://codeforces.com/blog/entry/66040){:target="\_blank"}
 - [Tom Davis book - Hackenbush](http://www.geometer.org/mathcircles/hackenbush.pdf){:target="\_blank"}
-- [](){:target="\_blank"}
-- [](){:target="\_blank"} 
+[](){:target="\_blank"} 
 
 ## Related Problems
 
