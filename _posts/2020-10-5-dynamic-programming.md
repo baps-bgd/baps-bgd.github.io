@@ -18,15 +18,15 @@ published: true
 
 ## Related Problems
 
-- [Lightoj DP Section](https://lightoj.com/problems/category/dp){:target="_blank"}
+- [LOJ DP Section](https://lightoj.com/problems/category/dp){:target="_blank"}
 - [AtCoder DP Contest](https://atcoder.jp/contests/dp){:target="_blank"}
 - [CF - 118D - Caesar's Legions](https://codeforces.com/problemset/problem/118/D){:target="_blank"} `(Easy)`
 - [CC - FROGV - Chef and Frogs](https://www.codechef.com/problems/FROGV){:target="_blank"} `(Easy)`
-- [Spoj - ADASEQEN - Ada and Subsequence](https://www.spoj.com/problems/ADASEQEN){:target="_blank"} `(Easy)`
-- [Spoj - ALTSEQ - Alternating Sequences](https://www.spoj.com/problems/ALTSEQ/){:target="_blank"} `(Easy)`
+- [SPOJ - ADASEQEN - Ada and Subsequence](https://www.spoj.com/problems/ADASEQEN){:target="_blank"} `(Easy)`
+- [SPOJ - ALTSEQ - Alternating Sequences](https://www.spoj.com/problems/ALTSEQ/){:target="_blank"} `(Easy)`
 - [CC - KGP14D - Interview Scheduling](https://www.codechef.com/problems/KGP14D){:target="_blank"} `(Medium)`
 - [CF - 895C - Square Subsets](https://codeforces.com/contest/895/problem/C){:target="_blank"} `(Medium)`
 - [CF - 100886G - Maximum Product](https://codeforces.com/gym/100886/problem/G){:target="_blank"} `(Medium)`
-- [ACM ICPC Dhaka Regional 2018/19 - Problem B - Counting Inversion](https://algo.codemarshal.org/contests/icpc-dhaka-18/problems/B){:target="_blank"} `(Medium)`
-- [Kuet IUPC 2019 - Problem B - Just change it up..](https://algo.codemarshal.org/contests/kuet-iupc-19/problems/B){:target="_blank"} `(Medium)`
+- [CM - ICPC Dhaka Regional 2018/19 - B - Counting Inversion](https://algo.codemarshal.org/contests/icpc-dhaka-18/problems/B){:target="_blank"} `(Medium)`
+- [CM - KUET IUPC 2019 - B - Just change it up..](https://algo.codemarshal.org/contests/kuet-iupc-19/problems/B){:target="_blank"} `(Medium)`
 - [CC - WORKCHEF - Chef and special numbers](https://www.codechef.com/problems/WORKCHEF){:target="_blank"} `(Medium)`
