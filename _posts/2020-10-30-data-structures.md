@@ -21,5 +21,5 @@ published: true
 
 ## Related Problems
 
-- [Lightoj Data Structures Section](http://lightoj.com/volume_problemcategory.php?main_category=Data%20Structures){:target="\_blank"}
+- [Lightoj Data Structures Section](https://lightoj.com/problems/category/data-structures){:target="\_blank"}
 - [CF - 13E - Holes](https://codeforces.com/contest/13/problem/E){:target="\_blank"}`(Hard)`
