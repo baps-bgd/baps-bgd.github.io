@@ -22,9 +22,9 @@ published: true
 
 ## Related Problems
 
-- [Lightoj String Section](http://lightoj.com/volume_problemcategory.php?main_category=String){:target="_blank"}
-- [LightOJ - 1224 - DNA Prefix](http://lightoj.com/volume_showproblem.php?problem=1224){:target="_blank"}`(Easy)`
-- [LightOJ - 1129 - Consistency Checker](http://lightoj.com/volume_showproblem.php?problem=1129){:target="_blank"}`(Easy)`
+- [Lightoj String Section](https://lightoj.com/problems/category/string){:target="_blank"}
+- [LightOJ - 1224 - DNA Prefix](https://lightoj.com/problem/dna-prefix){:target="_blank"}`(Easy)`
+- [LightOJ - 1129 - Consistency Checker](https://lightoj.com/problem/consistency-checker){:target="_blank"}`(Easy)`
 - [UVa - 455 - Periodic Strings](https://onlinejudge.org/external/4/455.pdf){:target="_blank"} `(Easy)`
 - [UVa - 11475 - Extend to Palindrome](https://onlinejudge.org/external/114/11475.pdf){:target="_blank"} `(Easy)`
 - [UVa - 12672 - Binary Substring](https://onlinejudge.org/external/124/12472.pdf){:target="\_blank"}`(Medium)`
