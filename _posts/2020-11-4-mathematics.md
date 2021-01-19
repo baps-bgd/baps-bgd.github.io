@@ -28,9 +28,9 @@ published: true
  [](){:target="\_blank"}
 
 ## Related Problems
-- [Lightoj Math Section](https://lightoj.com/problems/category/math){:target="\_blank"}
-- [Lightoj Matrix Section](https://lightoj.com/problems/category/matrix){:target="\_blank"}
-- [Lightoj FFT Section](https://lightoj.com/problems/category/fft){:target="\_blank"}
+- [LOJ Math Section](https://lightoj.com/problems/category/math){:target="\_blank"}
+- [LOJ Matrix Section](https://lightoj.com/problems/category/matrix){:target="\_blank"}
+- [LOJ FFT Section](https://lightoj.com/problems/category/fft){:target="\_blank"}
 - [UVa - 12631 - Chocolate or Money](https://onlinejudge.org/external/126/12631.pdf){:target="\_blank"}`(Medium)`
 - [CF - 449D - Jzzhu and Numbers](https://codeforces.com/problemset/problem/449/D){:target="\_blank"}`(Hard)`
 - [CM - SUB-IUPC-15-D - Just Primes](https://algo.codemarshal.org/contests/subiupc-2015/problems/D){:target="\_blank"}`(Medium)`
