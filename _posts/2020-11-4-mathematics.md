@@ -18,6 +18,12 @@ published: true
 - [Codechef Tutorial - Expexted Value](https://www.codechef.com/wiki/tutorial-expectation){:target="\_blank"}
 - [Errichto's Blog - Expected Value and Linearity of Expectation](https://codeforces.com/blog/entry/62690){:target="\_blank"}
 - [CF Blog - Mobius Inversion](https://codeforces.com/blog/entry/53925){:target="\_blank"}
+- [Zobayer's Blog - Matrix Exponentiation](http://zobayer.blogspot.com/2010/11/matrix-exponentiation.html){:target="\_blank"}
+- [Hackerearth Tutorial - Matrix Exponentiation](https://www.hackerearth.com/practice/notes/matrix-exponentiation-1/){:target="\_blank"}
+- [Forthright48 Blog - Lucas Theorem](https://forthright48.com/lucas-theorem-proof-and-applications/){:target="\_blank"}
+- [Lucas' Theorem for Prime Powers](https://github.com/baps-bgd/baps-bgd.github.io/blob/master/_files/Lucas'%20Theorem%20for%20Prime%20Powers.pdf){:target="\_blank"}
+ [](){:target="\_blank"}
+ [](){:target="\_blank"}
  [](){:target="\_blank"}
 
 ## Related Problems
