@@ -21,7 +21,7 @@ published: true
 - [Zobayer's Blog - Matrix Exponentiation](http://zobayer.blogspot.com/2010/11/matrix-exponentiation.html){:target="\_blank"}
 - [Hackerearth Tutorial - Matrix Exponentiation](https://www.hackerearth.com/practice/notes/matrix-exponentiation-1/){:target="\_blank"}
 - [Forthright48 Blog - Lucas Theorem](https://forthright48.com/lucas-theorem-proof-and-applications/){:target="\_blank"}
-- [Lucas' Theorem for Prime Powers](https://github.com/baps-bgd/baps-bgd.github.io/blob/master/_files/Lucas'%20Theorem%20for%20Prime%20Powers.pdf){:target="\_blank"}
+- [Lucas' Theorem for Prime Powers](https://raw.githubusercontent.com/baps-bgd/baps-bgd.github.io/master/_files/Lucas'%20Theorem%20for%20Prime%20Powers.pdf){:target="\_blank"}
 - [CSAcademy Tutorial - Fast Fourier Transformation (FFT)](https://csacademy.com/blog/fast-fourier-transform-and-variations-of-it){:target="\_blank"}
 - [CF Blog - Fast Fourier Transformation (FFT)](https://codeforces.com/blog/entry/43499){:target="\_blank"}
 - [Swad's Blog - Finding Basis for Vectors in Modulo 2](https://codeforces.com/blog/entry/68953){:target="\_blank"}
