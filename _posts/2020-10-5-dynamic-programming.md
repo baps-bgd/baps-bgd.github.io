@@ -18,7 +18,7 @@ published: true
 
 ## Related Problems
 
-- [Lightoj DP Section](http://lightoj.com/volume_problemcategory.php?category=Dynamic%20Programming){:target="_blank"}
+- [Lightoj DP Section](https://lightoj.com/problems/category/dp){:target="_blank"}
 - [AtCoder DP Contest](https://atcoder.jp/contests/dp){:target="_blank"}
 - [CF - 118D - Caesar's Legions](https://codeforces.com/problemset/problem/118/D){:target="_blank"} `(Easy)`
 - [CC - FROGV - Chef and Frogs](https://www.codechef.com/problems/FROGV){:target="_blank"} `(Easy)`
