@@ -18,8 +18,8 @@ published: true
 
 ## Related Problems
 
-- [Lightoj Greedy Section](https://lightoj.com/problems/category/greedy){:target="\_blank"}
-- [Lightoj Searching Section](https://lightoj.com/problems/category/advanced-search){:target="\_blank"}
+- [LOJ Greedy Section](https://lightoj.com/problems/category/greedy){:target="\_blank"}
+- [LOJ Searching Section](https://lightoj.com/problems/category/advanced-search){:target="\_blank"}
 - [UVa - 299 - Train Swapping](https://onlinejudge.org/external/2/299.pdf){:target="\_blank"}
 - [UVa - 846 - Steps](https://onlinejudge.org/external/8/846.pdf){:target="\_blank"}
 - [UVa - 880 - Cantor Fractions](https://onlinejudge.org/external/8/880.pdf){:target="\_blank"}
