@@ -36,3 +36,4 @@ published: true
 - [UVa - 4135 - Hard Life](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=4135){:target="\_blank"}
 - [UVa - 4534 - Help Little Laura](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=4534){:target="\_blank"}
 - [UVa - 2641 - All Pairs Maximum Flow](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2641){:target="\_blank"}
+- [CF - 343E - Pumping Stations](https://codeforces.com/contest/343/problem/E){:target="\_blank"}
