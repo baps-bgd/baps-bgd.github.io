@@ -23,6 +23,7 @@ published: true
 - [Forthright48 Blog - Lucas Theorem](https://forthright48.com/lucas-theorem-proof-and-applications/){:target="\_blank"}
 - [Lucas' Theorem for Prime Powers](https://raw.githubusercontent.com/baps-bgd/baps-bgd.github.io/master/_files/Lucas'%20Theorem%20for%20Prime%20Powers.pdf){:target="\_blank"}
 - [CSAcademy Tutorial - Fast Fourier Transformation (FFT)](https://csacademy.com/blog/fast-fourier-transform-and-variations-of-it){:target="\_blank"}
+- [CP Algorithm Tutorial - Fast Fourier Transformation (FFT)](https://cp-algorithms.com/algebra/fft.html){:target="\_blank"}
 - [CF Blog - Fast Fourier Transformation (FFT)](https://codeforces.com/blog/entry/43499){:target="\_blank"}
 - [Swad's Blog - Finding Basis for Vectors in Modulo 2](https://codeforces.com/blog/entry/68953){:target="\_blank"}
  [](){:target="\_blank"}
