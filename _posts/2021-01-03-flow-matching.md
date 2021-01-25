@@ -26,19 +26,17 @@ published: true
 [](){:target="\_blank"} 
 
 
-## Max Flow Problems
+## Related Problems
 - [LOJ Flow-Matching Section](https://lightoj.com/problems/category/flow){:target="\_blank"} 
-- [Problem A - Perspective](https://codeforces.com/gym/101366){:target="\_blank"} `(Easy)`
+- [CF Gym 101366A - Perspective](https://codeforces.com/gym/101366){:target="\_blank"} `(Easy)`
 - [LOJ Space Shuttle Experiments](https://lightoj.com/problem/space-shuttle-experiments){:target="\_blank"} `(Medium)`
 - [LOJ Component Placement](https://lightoj.com/problem/component-placement){:target="\_blank"} `(Medium)`
 - [LOJ Binary Matrix](https://lightoj.com/problem/binary-matrix){:target="\_blank"} `(Medium)`
-- [Problem B - Bring Them Here ](https://codeforces.com/gym/101388){:target="\_blank"} `(Medium)`
+- [CF Gym 101388B - Bring Them Here](https://codeforces.com/gym/101388){:target="\_blank"} `(Medium)`
 - [LOJ Pizza and Inner Peace](https://lightoj.com/problem/pizza-and-inner-peace){:target="\_blank"} `(Medium)`
 - [BUP 2019 A Thousand Push Ups](https://algo.codemarshal.org/contests/bup-iupc-19/problems/G){:target="\_blank"} `(Hard)`
-- [Problem B - Reactor Cooling ](https://codeforces.com/gym/100199){:target="\_blank"} `(Hard)`
-- [Problem G - Network War ](https://codeforces.com/gym/100204){:target="\_blank"} `(Medium)`
-
-## BPM Problems
+- [CF Gym 100199B - Reactor Cooling ](https://codeforces.com/gym/100199){:target="\_blank"} `(Hard)`
+- [CF Gym 100204G - Network War ](https://codeforces.com/gym/100204){:target="\_blank"} `(Medium)`
 - [LOJ Knights in Chessboard](https://lightoj.com/problem/knights-in-chessboard-ii){:target="\_blank"} `(Easy)`
 - [LOJ Hiding Gold](https://lightoj.com/problem/hiding-gold){:target="\_blank"} `(Easy)`
 - [SPOJ Muddy](https://www.spoj.com/problems/MUDDY/){:target="\_blank"} `(Medium)`
@@ -47,10 +45,8 @@ published: true
 - [LOJ Assasin's Creed II](https://lightoj.com/problem/assassin-s-creed-ii){:target="\_blank"} `(Medium)`
 - [LOJ Scheduling Taxi Cabs](https://lightoj.com/problem/scheduling-taxi-cabs){:target="\_blank"} `(Medium)`
 - [LOJ The Great Merger](https://lightoj.com/problem/the-great-merger){:target="\_blank"} `(Hard)`
-
-## MCMF Problems
-- [Olympiad in Programming and Sports](https://codeforces.com/problemset/problem/730/I){:target="\_blank"} `(Easy)`
-- [Balls and Boxes](https://www.hackerrank.com/contests/w32/challenges/balls-and-boxes/problem){:target="\_blank"} `(Medium)`
+- [CF 730I Olympiad in Programming and Sports](https://codeforces.com/problemset/problem/730/I){:target="\_blank"} `(Easy)`
+- [HR Balls and Boxes](https://www.hackerrank.com/contests/w32/challenges/balls-and-boxes/problem){:target="\_blank"} `(Medium)`
 - [Phuket ICPC 2009 Highway Patrol](https://www.spoj.com/problems/PHU09K/){:target="\_blank"} `(Hard)`
 
 
