@@ -19,8 +19,6 @@ published: true
 - [Quora Answer - Complexity of Edmond Karp](https://www.quora.com/Is-there-a-simple-intuitive-way-to-explain-why-the-Edmonds-Karp-max-flow-algorithm-takes-O-EV-2/answer/Tadeusz-Panda){:target="\_blank"}
 - [Competitive Programmer's Handbook - Flows and Cuts](https://raw.githubusercontent.com/baps-bgd/baps-bgd.github.io/master/_files/Competitive-Programmer%E2%80%99s-Handbook.pdf#page=191){:target="\_blank"}
 - [Min Cost Any Circular Flow Code](https://github.com/stjepang/snippets/blob/master/circulation.cpp){:target="\_blank"}
-
-=======
 - [TUM Tutorial - Gomory-Hu Tree](http://www14.in.tum.de/lehre/2016WS/ea/split/sec-Gomory-Hu-Trees.pdf){:target="\_blank"}
 
 [](){:target="\_blank"}
