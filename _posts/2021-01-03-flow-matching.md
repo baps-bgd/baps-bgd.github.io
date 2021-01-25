@@ -18,6 +18,7 @@ published: true
 - [TUM Tutorial - General Matching (Edmonds' Blossom Algorithm](https://www-m9.ma.tum.de/graph-algorithms/matchings-blossom-algorithm/index_en.html){:target="\_blank"} 
 - [Quora Answer - Complexity of Edmond Karp](https://www.quora.com/Is-there-a-simple-intuitive-way-to-explain-why-the-Edmonds-Karp-max-flow-algorithm-takes-O-EV-2/answer/Tadeusz-Panda){:target="\_blank"} 
 - [Competitive Programmer's Handbook - Flows and Cuts](https://raw.githubusercontent.com/baps-bgd/baps-bgd.github.io/master/_files/Competitive-Programmer%E2%80%99s-Handbook.pdf#page=191){:target="\_blank"} 
+- [TUM Tutorial - Gomory-Hu Tree](http://www14.in.tum.de/lehre/2016WS/ea/split/sec-Gomory-Hu-Trees.pdf){:target="\_blank"} 
 
 [](){:target="\_blank"} 
 [](){:target="\_blank"} 
@@ -27,3 +28,12 @@ published: true
 ## Related Problems
 - [LOJ Flow-Matching Section](https://lightoj.com/problems/category/flow){:target="\_blank"} 
 - [UVa - 820 - Internet Bandwidth](https://onlinejudge.org/external/8/820.pdf){:target="\_blank"} `(Easy)`
+- [CC - HAMILG - A game on graph](https://www.codechef.com/problems/HAMILG){:target="\_blank"} 
+- [CF - 1067E - Random Forest Rank](https://codeforces.com/problemset/problem/1067/E){:target="\_blank"}
+- [CC - FLOORDIS - Floor Distribution](https://www.codechef.com/problems/FLOORDIS){:target="\_blank"}
+- [CF - 499E - Array and Operations](https://codeforces.com/contest/499/problem/E){:target="\_blank"}
+- [CF - 512C - Fox And Dinner](https://codeforces.com/problemset/problem/512/C){:target="\_blank"}
+- [UVa - 4135 - Hard Life](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=4135){:target="\_blank"}
+- [UVa - 4534 - Help Little Laura](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=4534){:target="\_blank"}
+- [UVa - 2641 - All Pairs Maximum Flow](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2641){:target="\_blank"}
+- [CF - 343E - Pumping Stations](https://codeforces.com/contest/343/problem/E){:target="\_blank"}
