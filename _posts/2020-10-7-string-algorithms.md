@@ -47,3 +47,4 @@ published: true
 - [POJ - 3974 - Palindrome](http://poj.org/problem?id=3974){:target="_blank"} `(Easy)`
 - [UVALive - 6893 - The Big Painting](https://icpcarchive.ecs.baylor.edu/external/68/6893.pdf){:target="_blank"}`(Medium)`
 - [UVALive - 4682 - XOR Sum](https://icpcarchive.ecs.baylor.edu/external/46/4682.pdf){:target="_blank"}`(Medium)`
+- [CF 452E - Three String](http://codeforces.com/problemset/problem/452/E){:target="_blank"}`(Hard)`
