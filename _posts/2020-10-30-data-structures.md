@@ -25,3 +25,4 @@ published: true
 - [CF - 13E - Holes](https://codeforces.com/contest/13/problem/E){:target="\_blank"}`(Hard)`
 - [CF - 383C - Propagating Trees](https://codeforces.com/problemset/problem/383/C){:target="\_blank"}`(Medium)`
 - [SPOJ - MKTHNUM](https://www.spoj.com/problems/MKTHNUM/){:target="\_blank"}`(Medium)`
+- [UVa - 11235 - Frequent Values](https://onlinejudge.org/external/112/11235.pdf){:target="\_blank"}`(Medium)`
