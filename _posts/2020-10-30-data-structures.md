@@ -26,3 +26,5 @@ published: true
 - [CF - 383C - Propagating Trees](https://codeforces.com/problemset/problem/383/C){:target="\_blank"}`(Medium)`
 - [SPOJ - MKTHNUM](https://www.spoj.com/problems/MKTHNUM/){:target="\_blank"}`(Medium)`
 - [UVa - 11235 - Frequent Values](https://onlinejudge.org/external/112/11235.pdf){:target="\_blank"}`(Medium)`
+- [SPOJ - RMQSQ](https://www.spoj.com/problems/RMQSQ/){:target="\_blank"}`(Medium)`
+- [SPOJ - INVCNT](https://www.spoj.com/problems/INVCNT/){:target="\_blank"}`(Medium)`
