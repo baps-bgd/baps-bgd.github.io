@@ -37,3 +37,4 @@ published: true
 - [CM - SUB-IUPC-15-D - Just Primes](https://algo.codemarshal.org/contests/subiupc-2015/problems/D){:target="\_blank"}`(Medium)`
 - [LOJ - 1325 - Distributing Choclates](https://lightoj.com/problem/distributing-chocolates){:target="\_blank"}`(Medium)`
  [](){:target="\_blank"}
+- [UVa - 991 - Safe Salutations](https://onlinejudge.org/external/9/991.pdf){:target="\_blank"}`(Medium)`
