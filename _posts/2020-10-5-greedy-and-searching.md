@@ -60,7 +60,7 @@ published: true
 - [CC - TACHSTCK - Chopsticks](https://www.codechef.com/problems/TACHSTCK){:target="\_blank"}
 - [AC - Manga Marjet](https://atcoder.jp/contests/hitachi2020/tasks/hitachi2020_d){:target="\_blank"}
 - [POJ - 2823 - Sliding Window](http://poj.org/problem?id=2823){:target="\_blank"} `(Easy)`
-- [SGU - 114 - Telecasting Station](https://vjudge.net/problem/SGU-114){:target="\_blank"} `(Easy)`
+- [SGU - 114 - Telecasting Station](https://codeforces.com/problemsets/acmsguru/problem/99999/114){:target="\_blank"} `(Easy)`
 - [HDU - 2774 - Shuffle](http://acm.hdu.edu.cn/showproblem.php?pid=2774){:target="\_blank"}
 - [HDU - 5056 - Boring Count](http://acm.hdu.edu.cn/showproblem.php?pid=5056){:target="\_blank"}
 - [HDU - 5806 - NanoApe Loves Sequence Ⅱ](http://acm.hdu.edu.cn/showproblem.php?pid=5806){:target="\_blank"}
