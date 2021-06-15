@@ -54,6 +54,7 @@ published: true
 - [SPOJ - GMSTRE - Game Store](https://www.spoj.com/problems/GMSTRE/en/){:target="\_blank"}
 - [SPOJ - Broken - Broken Keyboard](https://www.spoj.com/problems/BROKEN/en//){:target="\_blank"}
 - [SPOJ - SNGINT - Encode Integer](https://www.spoj.com/problems/SNGINT/en/){:target="\_blank"}
+- [SPOJ - AGGRCOW - Aggressive cows](https://www.spoj.com/problems/AGGRCOW/){:target="\_blank"} `(Medium)`
 - [CM - Lesson for Unity](https://algo.codemarshal.org/contests/subiupc-2015/problems/B){:target="\_blank"} `(Medium)`
 - [CC - SDCOR3 - Huffman Encoding](https://www.codechef.com/problems/SDCOR3){:target="\_blank"}
 - [CC - KGP14D - Interview Scheduling](https://www.codechef.com/problems/KGP14D){:target="\_blank"}
