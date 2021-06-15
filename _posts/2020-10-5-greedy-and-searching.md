@@ -68,3 +68,4 @@ published: true
 - [HDU - 5056 - Boring Count](http://acm.hdu.edu.cn/showproblem.php?pid=5056){:target="\_blank"}
 - [HDU - 5806 - NanoApe Loves Sequence Ⅱ](http://acm.hdu.edu.cn/showproblem.php?pid=5806){:target="\_blank"}
 - [LOJ - 1076 - Get the Containers](https://lightoj.com/problem/get-the-containers){:target="\_blank"} `(Medium)`
+- [LOJ - 1062 - Crossed Ladders](https://lightoj.com/problem/crossed-ladders){:target="\_blank"} `(Medium)`
