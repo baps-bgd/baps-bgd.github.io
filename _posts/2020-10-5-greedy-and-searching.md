@@ -67,3 +67,4 @@ published: true
 - [HDU - 2774 - Shuffle](http://acm.hdu.edu.cn/showproblem.php?pid=2774){:target="\_blank"}
 - [HDU - 5056 - Boring Count](http://acm.hdu.edu.cn/showproblem.php?pid=5056){:target="\_blank"}
 - [HDU - 5806 - NanoApe Loves Sequence Ⅱ](http://acm.hdu.edu.cn/showproblem.php?pid=5806){:target="\_blank"}
+- [LOJ - 1076 - Get the Containers](https://lightoj.com/problem/get-the-containers){:target="\_blank"} `(Medium)`
