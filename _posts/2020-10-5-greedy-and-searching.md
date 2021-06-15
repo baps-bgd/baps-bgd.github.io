@@ -36,6 +36,7 @@ published: true
 - [UVa - 12640 - Largest Sum Game](https://onlinejudge.org/external/126/12640.pdff){:target="\_blank"} `(Easy)`
 - [UVa - 13054 - Hippo Circus](https://onlinejudge.org/external/130/13054.pdf){:target="\_blank"} `(Easy)`
 - [UVa - 10611 - The Playboy Chimp](https://onlinejudge.org/external/106/10611.pdf){:target="\_blank"}`(Easy)`
+- [UVa - 10341 - Solve It](https://onlinejudge.org/external/103/10341.pdf){:target="\_blank"}`(Easy)`
 - [CF - 279B - Books](https://codeforces.com/problemset/problem/279/B){:target="\_blank"}
 - [CF - 435B - Pasha Maximizes](https://codeforces.com/problemset/problem/435/B){:target="\_blank"}
 - [CF - 500C - New Year Book Reading](https://codeforces.com/problemset/problem/500/C){:target="\_blank"}
