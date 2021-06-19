@@ -35,6 +35,8 @@ published: true
 - [UVa - 11776 - Oh Your Royal Greediness!](https://onlinejudge.org/external/117/11776.pdf){:target="\_blank"} `(Easy)`
 - [UVa - 12640 - Largest Sum Game](https://onlinejudge.org/external/126/12640.pdff){:target="\_blank"} `(Easy)`
 - [UVa - 13054 - Hippo Circus](https://onlinejudge.org/external/130/13054.pdf){:target="\_blank"} `(Easy)`
+- [UVa - 10611 - The Playboy Chimp](https://onlinejudge.org/external/106/10611.pdf){:target="\_blank"}`(Easy)`
+- [UVa - 10341 - Solve It](https://onlinejudge.org/external/103/10341.pdf){:target="\_blank"}`(Easy)`
 - [CF - 279B - Books](https://codeforces.com/problemset/problem/279/B){:target="\_blank"}
 - [CF - 435B - Pasha Maximizes](https://codeforces.com/problemset/problem/435/B){:target="\_blank"}
 - [CF - 500C - New Year Book Reading](https://codeforces.com/problemset/problem/500/C){:target="\_blank"}
@@ -53,6 +55,7 @@ published: true
 - [SPOJ - GMSTRE - Game Store](https://www.spoj.com/problems/GMSTRE/en/){:target="\_blank"}
 - [SPOJ - Broken - Broken Keyboard](https://www.spoj.com/problems/BROKEN/en//){:target="\_blank"}
 - [SPOJ - SNGINT - Encode Integer](https://www.spoj.com/problems/SNGINT/en/){:target="\_blank"}
+- [SPOJ - AGGRCOW - Aggressive cows](https://www.spoj.com/problems/AGGRCOW/){:target="\_blank"} `(Medium)`
 - [CM - Lesson for Unity](https://algo.codemarshal.org/contests/subiupc-2015/problems/B){:target="\_blank"} `(Medium)`
 - [CC - SDCOR3 - Huffman Encoding](https://www.codechef.com/problems/SDCOR3){:target="\_blank"}
 - [CC - KGP14D - Interview Scheduling](https://www.codechef.com/problems/KGP14D){:target="\_blank"}
@@ -64,3 +67,5 @@ published: true
 - [HDU - 2774 - Shuffle](http://acm.hdu.edu.cn/showproblem.php?pid=2774){:target="\_blank"}
 - [HDU - 5056 - Boring Count](http://acm.hdu.edu.cn/showproblem.php?pid=5056){:target="\_blank"}
 - [HDU - 5806 - NanoApe Loves Sequence Ⅱ](http://acm.hdu.edu.cn/showproblem.php?pid=5806){:target="\_blank"}
+- [LOJ - 1076 - Get the Containers](https://lightoj.com/problem/get-the-containers){:target="\_blank"} `(Medium)`
+- [LOJ - 1062 - Crossed Ladders](https://lightoj.com/problem/crossed-ladders){:target="\_blank"} `(Medium)`
